@@ -11,8 +11,7 @@
                 <filteritem type="filepath" name="README.chromium"
                     desc="" />
             </filefilter>
-            <filefilter name="defaultPolicyFilter"
-                desc="Filters for compatibility,license header policies">
+            <filefilter name="defaultFilter">
                 <filteritem type="filepath" name="README.OpenSource"
                     desc="" />
             </filefilter>
