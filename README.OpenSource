@@ -6,6 +6,6 @@
         "Version Number": "5b7c744eb8310250ccc534f3f86a2015b3887a0a",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/chromium/deps/libsrtp.git@5b7c744eb8310250ccc534f3f86a2015b3887a0a",
-        "Description": "第三方如软件libsrtp"
+        "Description": "第三方如软件libsrtp，主要是是用来加密rtp/rtcp的，也可以加密任何文本"
     }
 ]
